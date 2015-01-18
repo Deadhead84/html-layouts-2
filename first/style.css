@@ -1,0 +1,76 @@
+html, body {
+	height: 100%;
+	width: 80%;
+	margin: 0;
+}
+
+body {
+
+	padding: 20px;
+}
+
+.top-menu {
+	display: flex;
+	justify-content: space-between;
+	height: 20%;
+}
+
+.top-menu_box {
+	width: 30%;
+	height: 100%;
+}
+
+.red {
+	background-color: #D0021B;
+}
+
+.blue {
+	background-color: #4A90E2;
+}
+
+.gray {
+	background-color: #4A4A4A;
+}
+
+.text {
+	padding: 20px 0;
+	height: 20%;
+	width: 100%;
+}
+
+.middle-menu {
+	height: 30%;
+	width: 100%;
+}
+
+.middle-left {
+	float: left;
+	height: 100%;
+	width: 35%;
+}
+
+.middle-right {
+	float: left;
+	height: 100%;
+	width: 65%;
+}
+
+.bottom {
+	height: 20%;
+	margin-top: 30px;
+}
+
+.bottom-right {
+	height: 100%;
+	width: 5%;
+	float: right;
+}
+
+.bottom-middle {
+	height: 100%;
+	width: 15%;
+	float: right;
+}
+
+
+
